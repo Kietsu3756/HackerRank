@@ -10,3 +10,4 @@ https://www.hackerrank.com/domains/shell
 | Bash      | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)   | Easy          | [loopingAndSkipping.sh](loopingAndSkipping.sh)    |
 | Bash      | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)     | Easy          | [aPersonalizedEcho.sh](aPersonalizedEcho.sh)      |
 | Bash      | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)   | Easy          | [loopingWithNumbers](loopingWithNumbers.sh)       |
+| Bash      | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)   | Easy          | [theWorldOfNumbers.sh](theWorldOfNumbers.sh)      |
