@@ -22,14 +22,9 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# Solution 1: echo (less portable)
-letsEchoWithEcho() {
-    echo "HELLO"
+aPersonalizedEchoUsingRead() {
+    read name
+    printf "Welcome $name\n"
 }
 
-# Solution 2: printf (portable)
-letsEchoWithPrintF() {
-    printf "HELLO\n"
-}
-
-letsEchoWithPrintF
+aPersonalizedEchoUsingRead
