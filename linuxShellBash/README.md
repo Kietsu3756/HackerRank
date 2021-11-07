@@ -11,3 +11,4 @@ https://www.hackerrank.com/domains/shell
 | Bash      | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)     | Easy          | [aPersonalizedEcho.sh](aPersonalizedEcho.sh)      |
 | Bash      | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)   | Easy          | [loopingWithNumbers](loopingWithNumbers.sh)       |
 | Bash      | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)   | Easy          | [theWorldOfNumbers.sh](theWorldOfNumbers.sh)      |
+| Bash      | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)         | Easy          | [comparingNumbers.sh](comparingNumbers.sh)        |
