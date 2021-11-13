@@ -22,6 +22,8 @@ https://www.hackerrank.com/domains/shell
 [gettingStartedWithConditionals.sh]:    gettingStartedWithConditionals.sh
 [More on Conditionals]:                 https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem
 [moreOnConditionals.sh]:                moreOnConditionals.sh
+[Arithmetic Operations]:                https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations
+[arithmethicOperations.sh]:             arithmethicOperations.sh
 
 
 | Subdomain | Challenge                             | Difficulty    | Source Code                           |
@@ -33,3 +35,5 @@ https://www.hackerrank.com/domains/shell
 | Bash      | [The World of Numbers]                | Easy          | [theWorldOfNumbers.sh]                |
 | Bash      | [Comparing Numbers]                   | Easy          | [comparingNumbers.sh]                 |
 | Bash      | [Getting Starts with Conditionals]    | Easy          | [gettingStartedWithConditionals.sh]   |
+| Bash      | [More on Conditionals]                | Easy          | [moreOnConditionals.sh]               |
+| Bash      | [Arithmetic Operations]               | Easy          | [arithmethicOperations.sh]            |
